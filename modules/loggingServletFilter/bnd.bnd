@@ -1,0 +1,4 @@
+Bundle-Name: loggingServletFilter
+Bundle-SymbolicName: loggingServletFilter
+Bundle-Version: 1.0.0
+
